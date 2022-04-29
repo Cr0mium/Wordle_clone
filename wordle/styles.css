@@ -1,0 +1,33 @@
+
+  .box {
+    border: 2px solid white;
+    height: 46px;
+    width: 46px;
+    color: azure;
+    font-size: 35px;
+    text-align: center;
+    background-color: rgb(30,30,30);
+  }
+
+  .border {
+    border: 2px solid white;
+    height: 1500px;
+    width: 100%;
+    color: azure;
+    font-size: 35px;
+    text-align: center;
+    background-color: rgb(30,30,30);
+  }
+
+  header .title {
+    font-family: 'nyt-karnakcondensed';
+    font-weight: 700;
+    font-size: 37px;
+    line-height: 100%;
+    letter-spacing: 0.01em;
+    text-align: center;
+    left: 10px;
+    right: 0;
+    pointer-events: none;
+    color: azure;
+}
